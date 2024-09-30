@@ -1,10 +1,7 @@
-<!-- ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # LAB | Comparing Regular Neural Networks and CNNs on MNIST -->
 
-<!-- Google Collab - link to notebook for backup: https://colab.research.google.com/drive/1wHLhIwBphkAuo9TIacNd-GSmbJFgL1wp?usp=sharing 
-
-In this online version the bonus task is not added. Sandra added it to the version that students download from the drive. -->
 
 ## Introduction
 
